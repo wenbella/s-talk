@@ -15,8 +15,10 @@ step 2: open two terminals and within each of them, typing
 for example: terminal 1: s-talk 8080 localhost 8081
              terminal 2: s-talk 8081 localhost 8080
 			 
-To terminate the talking, type "!"			 
+To terminate the talking, type "!"	
 
- 
- 
-			 
+# Author
+PrateekAI
+
+# License
+This project is licensed under the C License
